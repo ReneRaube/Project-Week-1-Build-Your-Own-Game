@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[René Raube]*
+*René Raube*
 
-*[Data Analysis, Amsterdam & 21.02.20]*
+*Data Analysis, Amsterdam & 21.02.20*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,11 +14,10 @@
 
 ## Project Description
 Guess a number
-
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I chose this game, because it is straight-forward, i.e. everybody can play it and it is a fun game with a good chance of winning if you chose rationally.
 
 ## Rules
-8 times to guess a random number between 1 and 100. it is indicated if the hidden number is higher or lower than the chose value
+You've got 8 times to guess a random number between 1 and 100. It is indicated after every try if the hidden number is higher or lower than the chosen value.
 
 ## Workflow
 Firstly, I describe the game to the reader. One has to take the persepctive of those who play the game. 
@@ -31,8 +30,6 @@ I followed the steps that outlined earlier in Trello.
 My repository is separated into a ReadMe-file (the one you've just opened), a gitignore-file and the game-code itself.
 
 ## Links
----Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.---
-
-[Repository](https://github.com/)  
+[Repository](https://github.com/ReneRaube/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game)  
