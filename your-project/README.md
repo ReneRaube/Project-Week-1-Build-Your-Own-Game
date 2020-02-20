@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*[René Raube]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis, Amsterdam & 21.02.20]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,21 +13,25 @@
 - [Links](#links)
 
 ## Project Description
+Guess a number
+
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
 ## Rules
-Briefly describe the rules of the game.
+8 times to guess a random number between 1 and 100. it is indicated if the hidden number is higher or lower than the chose value
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Firstly, I describe the game to the reader. One has to take the persepctive of those who play the game. 
+After letting the computer choose randomly, I let the player make his/her first guess. In case (most likely) that the
+right number hasn't been found after the first guess, it is indicated if the hidden number is higher of lower than the value that the player chose. This step is repeated until either the player identifies the correct number or 8 rounds passed.
+In the end it is stated if the player has won or lost.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I followed the steps that outlined earlier in Trello.
+My repository is separated into a ReadMe-file (the one you've just opened), a gitignore-file and the game-code itself.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+---Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.---
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
